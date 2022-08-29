@@ -1,0 +1,464 @@
+[
+    {
+        "indice": 0,
+        "pregunta": "Cuántas personas pisaron la Luna?",
+        "respuestas": {
+            "opcion1": {
+                "text": "3",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "6",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "9",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "12",
+                "correct": true
+            }
+        }
+    },
+    {
+        "indice": 1,
+        "pregunta": "Dónde se encuentra la sagrada familia? ?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Milan",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Barcelona",
+                "correct": true
+            },
+            "opcion3": {
+                "text": "Nueva York",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Paris",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 2,
+        "pregunta": "Cuál es el pais mas grande del mundo ?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Rusia",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Brazil",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Canada",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "España",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 3,
+        "pregunta": "Cuál es el tercer planeta en el sistema solar?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Venus",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "La Tierra",
+                "correct": true
+            },
+            "opcion3": {
+                "text": "Jupiter",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Marte",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 4,
+        "pregunta": " Cuál es el animal mas rapido del mundo?",
+        "respuestas": {
+            "opcion1": {
+                "text": "puma",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "jaguar",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "guepardo",
+                "correct": true
+            },
+            "opcion4": {
+                "text": "tigre",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 5,
+        "pregunta": "Qué era el concorde?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Un avion",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Un tren",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Un edificio",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Un auto",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 6,
+        "pregunta": "Quién canta la cancion de 10 min titulada All too well??",
+        "respuestas": {
+            "opcion1": {
+                "text": "Adele",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Coldplay",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Taylor Swift",
+                "correct": true
+            },
+            "opcion4": {
+                "text": "Queen",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 7,
+        "pregunta": "Qué apostol traiciono a Jesus?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Judas",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Pedro",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Juan",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Lucas",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 8,
+        "pregunta": "Qué seleccion nacional gano mas copas del mundo en futbol?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Alemania",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Italia",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Argentina",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Brazil",
+                "correct": true
+            }
+        }
+    },
+    {
+        "indice": 9,
+        "pregunta": "Cómo se llamo el primer animal clonado en la historia?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Dolly",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Paul",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Juan",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Daisy",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 10,
+        "pregunta": "De donde proviene el café?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Colombia",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Peru",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Japon",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Portugal",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 11,
+        "pregunta": "De que nacionalidad es el Papa Francisco?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Uruguay",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Francia",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Argentina",
+                "correct": true
+            },
+            "opcion4": {
+                "text": "Italia",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 12,
+        "pregunta": "En que pais se encuentra el rascacielos mas alto del mundo?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Estados Unidos",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Japon",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Emiratos Arabes",
+                "correct": true
+            },
+            "opcion4": {
+                "text": "China",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 13,
+        "pregunta": "Quien es el jugador con mas balones de oro en la historia?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Lionel Messi",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Pele",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Cristiano Ronaldo",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Diego Maradona",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 14,
+        "pregunta": "Quién pintó la obra Guernica?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Paul Cézanne",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Pablo Picasso",
+                "correct": true
+            },
+            "opcion3": {
+                "text": "Salvador Dalí",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Frida Kahlo",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 15,
+        "pregunta": "Cuánto tiempo tarda la luz del Sol en llegar a la Tierra?",
+        "respuestas": {
+            "opcion1": {
+                "text": "1 día",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "12 horas",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "8 segundos",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "8 minutos",
+                "correct": true
+            }
+        }
+    },
+    {
+        "indice": 16,
+        "pregunta": "Cuál es el animal terrestre más grande en la actualidad?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Elefante africano",
+                "correct": true
+            },
+            "opcion2": {
+                "text": "Ballena azul",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Jirafa",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Ballena azul",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 17,
+        "pregunta": "Cuál es el tipo sanguíneo considerado como donante universal?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Tipo A",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Tipo B",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Tipo AB",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Tipo O",
+                "correct": true
+            }
+        }
+    },
+    {
+        "indice": 18,
+        "pregunta": "ESegún la leyenda de la fundación de Roma, ¿quién amamantó a los gemelos Rómulo y Remo?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Una cabra",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Una vaca",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Una oveja",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Una loba",
+                "correct": true
+            }
+        }
+    },
+    {
+        "indice": 19,
+        "pregunta": "Quién pintó la bóveda de la capilla sixtina?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Leonardo da Vinci",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Miguel Angel",
+                "correct": true
+            },
+            "opcion3": {
+                "text": "Rafael",
+                "correct": false
+            },
+            "opcion4": {
+                "text": "Boticelli",
+                "correct": false
+            }
+        }
+    },
+    {
+        "indice": 20,
+        "pregunta": "Quién es la primera persona en ganar dos premios Nobel?",
+        "respuestas": {
+            "opcion1": {
+                "text": "Albert Einstein",
+                "correct": false
+            },
+            "opcion2": {
+                "text": "Linus Pauling",
+                "correct": false
+            },
+            "opcion3": {
+                "text": "Marie Curie",
+                "correct": true
+            },
+            "opcion4": {
+                "text": "Richard Feynman",
+                "correct": false
+            }
+        }
+    }
+]

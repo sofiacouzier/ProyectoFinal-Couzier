@@ -52,7 +52,7 @@
                 "correct": true
             },
             "opcion2": {
-                "text": "Brazil",
+                "text": "Brasil",
                 "correct": false
             },
             "opcion3": {
@@ -92,19 +92,19 @@
         "pregunta": " Cuál es el animal mas rapido del mundo?",
         "respuestas": {
             "opcion1": {
-                "text": "puma",
+                "text": "Puma",
                 "correct": false
             },
             "opcion2": {
-                "text": "jaguar",
+                "text": "Jaguar",
                 "correct": false
             },
             "opcion3": {
-                "text": "guepardo",
+                "text": "Guepardo",
                 "correct": true
             },
             "opcion4": {
-                "text": "tigre",
+                "text": "Tigre",
                 "correct": false
             }
         }
@@ -192,7 +192,7 @@
                 "correct": false
             },
             "opcion4": {
-                "text": "Brazil",
+                "text": "Brasil",
                 "correct": true
             }
         }
@@ -221,7 +221,7 @@
     },
     {
         "indice": 10,
-        "pregunta": "De donde proviene el café?",
+        "pregunta": "De dónde proviene el café?",
         "respuestas": {
             "opcion1": {
                 "text": "Colombia",
@@ -243,7 +243,7 @@
     },
     {
         "indice": 11,
-        "pregunta": "De que nacionalidad es el Papa Francisco?",
+        "pregunta": "De qué nacionalidad es el Papa Francisco?",
         "respuestas": {
             "opcion1": {
                 "text": "Uruguay",
@@ -265,7 +265,7 @@
     },
     {
         "indice": 12,
-        "pregunta": "En que pais se encuentra el rascacielos mas alto del mundo?",
+        "pregunta": "En qué pais se encuentra el rascacielos mas alto del mundo?",
         "respuestas": {
             "opcion1": {
                 "text": "Estados Unidos",
@@ -287,14 +287,14 @@
     },
     {
         "indice": 13,
-        "pregunta": "Quien es el jugador con mas balones de oro en la historia?",
+        "pregunta": "Quién es el jugador con mas balones de oro en la historia?",
         "respuestas": {
             "opcion1": {
                 "text": "Lionel Messi",
                 "correct": true
             },
             "opcion2": {
-                "text": "Pele",
+                "text": "Pelé",
                 "correct": false
             },
             "opcion3": {
@@ -368,7 +368,7 @@
                 "correct": false
             },
             "opcion4": {
-                "text": "Ballena azul",
+                "text": "Tiburon Blanco",
                 "correct": false
             }
         }
@@ -397,7 +397,7 @@
     },
     {
         "indice": 18,
-        "pregunta": "ESegún la leyenda de la fundación de Roma, ¿quién amamantó a los gemelos Rómulo y Remo?",
+        "pregunta": "Según la leyenda de la fundación de Roma, ¿quién amamantó a los gemelos Rómulo y Remo?",
         "respuestas": {
             "opcion1": {
                 "text": "Una cabra",

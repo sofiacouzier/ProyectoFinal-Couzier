@@ -31,7 +31,7 @@ Signform.addEventListener(`submit`, (e) => {
         close: true,
         gravity: "top",
         position: "right",
-        stopOnFocus: true, // La alerta no se elimina si le pongo el mouse arriba
+        stopOnFocus: true,
         style: {
             background: "linear-gradient(to bottom left,#833ab4, #00a7a1)",
         },
@@ -63,8 +63,10 @@ formLog.addEventListener('submit', (e) => {
             icon: 'success',
             title: `Bienvenido ${nombreLog}!`,
             showDenyButton: false,
+            text: 'Estas por comenzar el juego, son 20 preguntas y solo una oportunidad para contestarlas bien. Suerte!',
             showCancelButton: false,
             confirmButton: '<a href="pages/juego.html"></a>',
+
             confirmButtonText: '<a href="pages/juego.html">Jugar!</a> ',
 
         })
@@ -72,20 +74,3 @@ formLog.addEventListener('submit', (e) => {
     formLog.reset()
 })
 
-
-// JUEGO:
-
-
-// const pregunta = document.getElementById("pregunta")
-// pregunta.innerHTML += `hola`
-// async function mostrarPregunta() {
-//     const preg = await fetch('../json/preguntas.json')
-//     const pregParseadas = await preguntas.json()
-//     pregParseadas.forEach((pregunta) => {
-//         pregunta.innerHTML += `
-//          <div>
-//          <h1 class="pregunta"> ${pregunta.pregunta} </h1>
-//          </div>`
-//     })
-// }
-// mostrarPregunta()

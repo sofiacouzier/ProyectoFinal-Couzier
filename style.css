@@ -49,6 +49,12 @@ legend {
     margin: 20px;
 }
 
+.ingresa {
+    text-align: center;
+    margin: 40px;
+    font-size: 50px;
+}
+
 .idBotonLog {
     align-items: center;
     justify-content: center;
@@ -78,13 +84,38 @@ legend {
 }
 
 .boton {
-    background-color: rgb(78, 56, 117);
     border-radius: 10px;
-    color: rgb(120, 226, 234);
     font-size: 30px;
     width: 50%;
     margin: 20px;
     align-content: center;
     align-items: center;
     justify-content: center;
+}
+
+.boton:hover {
+    background-color: blueviolet;
+}
+
+.ganar {
+    background-image: url(../imagenes/fondo.jpeg);
+}
+
+.ganaste {
+    font-size: 100px;
+    text-align: center;
+    margin: 250px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 40px;
+    background-color: black;
+}
+
+.felicitar {
+    text-align: center;
+
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 40px;
+    background-color: black;
 }

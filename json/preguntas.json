@@ -419,28 +419,6 @@
     },
     {
         "indice": 19,
-        "pregunta": "Quién pintó la bóveda de la capilla sixtina?",
-        "respuestas": {
-            "opcion1": {
-                "text": "Leonardo da Vinci",
-                "correct": false
-            },
-            "opcion2": {
-                "text": "Miguel Angel",
-                "correct": true
-            },
-            "opcion3": {
-                "text": "Rafael",
-                "correct": false
-            },
-            "opcion4": {
-                "text": "Boticelli",
-                "correct": false
-            }
-        }
-    },
-    {
-        "indice": 20,
         "pregunta": "Quién es la primera persona en ganar dos premios Nobel?",
         "respuestas": {
             "opcion1": {

@@ -11,9 +11,9 @@ let contador = 0
 async function mostrarPregunta() {
     const preguntas = await fetch('../json/preguntas.json')
     const pregParseadas = await preguntas.json()
-    const aver = pregParseadas.filter((p) => p.indice === numero)
+    const juego = pregParseadas.filter((p) => p.indice === numero)
 
-    aver.forEach(pre => {
+    juego.forEach(pre => {
         preg.innerHTML = `
     <div class="divJ" id="divJ">
     <h1 class="pregPrin"> ${pre.pregunta}</h1>
@@ -28,7 +28,7 @@ async function mostrarPregunta() {
         function cambiarPregunta() {
             contador = contador + 1
             numero = numero + 1
-            if (numero < 21) {
+            if (numero < 20) {
 
                 Swal.fire({
                     title: 'Respuesta correcta!',

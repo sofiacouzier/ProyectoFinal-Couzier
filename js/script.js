@@ -22,7 +22,7 @@ Signform.addEventListener(`submit`, (e) => {
 
     const jugador = new Jugador(nombre, email, contraseña)
     Jugadores.push(jugador)
-
+    //guardo el jugador
     localStorage.setItem(`Jugadores`, JSON.stringify(Jugadores))
     Signform.reset()
     Toastify({
@@ -41,13 +41,15 @@ Signform.addEventListener(`submit`, (e) => {
     }).showToast();
 })
 
+//log in
+
 const formLog = document.getElementById('idFormLog')
 
 formLog.addEventListener('submit', (e) => {
     e.preventDefault()
     let nombreLog = document.getElementById('idNombreLog').value
     let contraseñaLog = document.getElementById('idContraseñaLog').value
-
+    // busco si existe el jugador y chequeo
     let usuarioStorage = JSON.parse(localStorage.getItem(`Jugadores`))
 
     let usuario = usuarioStorage.find(Jugador => Jugador.nombre == nombreLog)

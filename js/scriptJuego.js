@@ -7,7 +7,7 @@ const preg = document.getElementById('pregunta')
 
 let numero = 0
 let contador = 0
-
+// un mismo html para todas las preguntas
 async function mostrarPregunta() {
     const preguntas = await fetch('../json/preguntas.json')
     const pregParseadas = await preguntas.json()
@@ -39,7 +39,7 @@ async function mostrarPregunta() {
                 })
                 mostrarPregunta()
             } else {
-                location.href = "../pages/final.html"
+                location.href = "../pages/final.html" //avisar si gane
             }
 
         }
@@ -47,7 +47,7 @@ async function mostrarPregunta() {
         apretar.addEventListener('click', (e) => {
             e.preventDefault()
 
-
+            //chequeo
             if (pre.respuestas.opcion1.correct) {
                 cambiarPregunta()
             }
@@ -64,6 +64,7 @@ async function mostrarPregunta() {
                 }).then(contador = 0)
             }
         })
+        //id de cada opcion para chequear
         const apretar1 = document.getElementById("apretar1")
         apretar1.addEventListener('click', (e) => {
             e.preventDefault()
